@@ -1,5 +1,5 @@
 # Predicting_Temperature
-This project involved predicting temperature using the humidity.csv dataset. Both Linear Regression and Polynomial Regression models were employed and evaluated to determine their performance.
+This project involved predicting temperature with humidity.csv dataset. Both Linear Regression and Polynomial Regression models were employed and evaluated to determine their performance.
 
 i) For Linear Regression 
    a) MSE - 7.4
